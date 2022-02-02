@@ -170,7 +170,6 @@ PRODUCT_COPY_FILES += \
     vendor/asus/sake/proprietary/vendor/etc/acdbdata/nn_vad_models/fai__3.0.0_0.0__eai_1.10.pmd:$(TARGET_COPY_OUT_VENDOR)/etc/acdbdata/nn_vad_models/fai__3.0.0_0.0__eai_1.10.pmd \
     vendor/asus/sake/proprietary/vendor/etc/apdr.conf:$(TARGET_COPY_OUT_VENDOR)/etc/apdr.conf \
     vendor/asus/sake/proprietary/vendor/etc/audio/ZS590KS/audio_io_policy_ZS590KS.conf:$(TARGET_COPY_OUT_VENDOR)/etc/audio/ZS590KS/audio_io_policy_ZS590KS.conf \
-    vendor/asus/sake/proprietary/vendor/etc/audio/ZS590KS/audio_policy_configuration_ZS590KS.xml:$(TARGET_COPY_OUT_VENDOR)/etc/audio/ZS590KS/audio_policy_configuration_ZS590KS.xml \
     vendor/asus/sake/proprietary/vendor/etc/audio/ZS590KS/audio_policy_volumes_ZS590KS.xml:$(TARGET_COPY_OUT_VENDOR)/etc/audio/ZS590KS/audio_policy_volumes_ZS590KS.xml \
     vendor/asus/sake/proprietary/vendor/etc/audio/ZS590KS/default_volume_tables_ZS590KS.xml:$(TARGET_COPY_OUT_VENDOR)/etc/audio/ZS590KS/default_volume_tables_ZS590KS.xml \
     vendor/asus/sake/proprietary/vendor/etc/audio/ZS590KS/mixer_paths_ZS590KS.xml:$(TARGET_COPY_OUT_VENDOR)/etc/audio/ZS590KS/mixer_paths_ZS590KS.xml \
@@ -519,7 +518,6 @@ PRODUCT_COPY_FILES += \
     vendor/asus/sake/proprietary/vendor/etc/sensors/config/sns_tilt.json:$(TARGET_COPY_OUT_VENDOR)/etc/sensors/config/sns_tilt.json \
     vendor/asus/sake/proprietary/vendor/etc/sensors/config/sns_tilt_sw_disabled.json:$(TARGET_COPY_OUT_VENDOR)/etc/sensors/config/sns_tilt_sw_disabled.json \
     vendor/asus/sake/proprietary/vendor/etc/sensors/config/sns_tilt_sw_enabled.json:$(TARGET_COPY_OUT_VENDOR)/etc/sensors/config/sns_tilt_sw_enabled.json \
-    vendor/asus/sake/proprietary/vendor/etc/sensors/config/sns_tilt_to_wake.json:$(TARGET_COPY_OUT_VENDOR)/etc/sensors/config/sns_tilt_to_wake.json \
     vendor/asus/sake/proprietary/vendor/etc/sensors/config/sns_wrist_pedo.json:$(TARGET_COPY_OUT_VENDOR)/etc/sensors/config/sns_wrist_pedo.json \
     vendor/asus/sake/proprietary/vendor/etc/sensors/hals.conf:$(TARGET_COPY_OUT_VENDOR)/etc/sensors/hals.conf \
     vendor/asus/sake/proprietary/vendor/etc/sensors/sensors_list.txt:$(TARGET_COPY_OUT_VENDOR)/etc/sensors/sensors_list.txt \
