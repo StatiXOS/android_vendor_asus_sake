@@ -1631,11 +1631,11 @@ PRODUCT_PACKAGES += \
     WfdCommon \
     com.qti.location.sdk \
     izat.xt.srv \
+    vendor.qti.hardware.alarm-V1.0-java \
     com.android.hotwordenrollment.common.util \
     com.qti.dpmframework \
     dpmapi \
     qcrilhook \
-    vendor.qti.hardware.alarm-V1.0-java \
     manifest_android.hardware.gnss@2.1-service-qti \
     c2_manifest_vendor \
     manifest_vendor.qti.gnss@4.0-service \
