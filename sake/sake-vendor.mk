@@ -1637,9 +1637,9 @@ PRODUCT_PACKAGES += \
     qcrilhook \
     vendor.qti.hardware.alarm-V1.0-java \
     manifest_android.hardware.gnss@2.1-service-qti \
+    c2_manifest_vendor \
     manifest_vendor.qti.gnss@4.0-service \
     manifest_android.hardware.neuralnetworks@1.3-service-qti \
-    c2_manifest_vendor \
     manifest_android.hardware.drm@1.3-service.widevine \
     manifest_vendor.qti.diag.hal.service \
     manifest_vendor.qti.hardware.servicetracker@1.2-service
